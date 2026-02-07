@@ -13,6 +13,4 @@ dependencies = [
     "pydantic>=2.12.5",
     "pystemmer>=3.0.0",
     "python-dotenv>=1.2.1",
-    "sentence-transformers>=5.2.2",
-    "tiktoken>=0.12.0",
 ]
